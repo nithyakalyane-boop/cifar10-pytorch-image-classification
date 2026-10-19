@@ -25,7 +25,7 @@ airplane, automobile, bird, cat, deer, dog, frog, horse, ship, and truck.
 
 ## Model Architecture
 - Convolutional layers
-- Batch normalization (if implemented)
+- Batch normalization 
 - ReLU activation
 - Max pooling
 - Fully connected layers
